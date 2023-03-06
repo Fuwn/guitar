@@ -22,7 +22,7 @@ To install from [crates.io](https://crates.io) you must have
 # Cargo.toml
 
 [dependencies]
-guitar = "0.1.0"
+guitar = "*" # or a specific version
 ```
 
 ## License
